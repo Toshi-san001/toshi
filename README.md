@@ -93,10 +93,10 @@ To keep it on forever
 
 # Modifiers 
 
-<a href="https://github.com/Eximinati"><img src="https://github.com/Eximinati.png?size=100" width="100" height="100"></a> | [![ARIN/3000/>](https://github.com/Arin1601.png?size=100)](https://github.com/Arin1601) 
+<a href="https://github.com/Eximinati"><img src="https://github.com/Eximinati.png?size=100" width="100" height="100"></a> | [![Ray_Senpai](https://github.com/RaySenpai69.png?size=100)](https://github.com/RaySenpai69) 
 ---|---
-[Aku](https://github.com/Eximinati)  | [Arin/3000/>](https://github.com/Arin1601)
-Useless Worker | Contributor |
+[Aku](https://github.com/Eximinati)  | [Ray_Senpai](https://github.com/RaySenpai69)
+Modifier | Modifier |
 
 # Contributor 🤝🏻
 <a href="https://github.com/Toshi-san001"><img src="https://github.com/Toshi-san001.png?size=100" width="100" height="100"></a> | [![ARIN/3000/>](https://github.com/Arin1601.png?size=100)](https://github.com/Arin1601) 

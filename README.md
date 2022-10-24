@@ -92,9 +92,9 @@ To keep it on forever
 
 # ✨ Creator ✨
 
-<a href="https://github.com/Eximinati"><img src="https://github.com/Eximinati.png?size=100" width="100" height="100"></a>
+<a href="https://github.com/pratyush4932"><img src="https://github.com/pratyush4932.png?size=100" width="100" height="100"></a>
 
-[Pratyush](https://github.com/Eximinati)
+[Pratyush](https://github.com/pratyush4932)
 | Modifier |
 
 # Modifiers 
@@ -102,7 +102,7 @@ To keep it on forever
 <a href="https://github.com/Eximinati"><img src="https://github.com/Eximinati.png?size=100" width="100" height="100"></a> | [![Ray_Senpai](https://github.com/RaySenpai69.png?size=100)](https://github.com/RaySenpai69) 
 ---|---
 [Aku](https://github.com/Eximinati)  | [Ray_Senpai](https://github.com/RaySenpai69)
-Modifier | Modifier |
+Modifier | Creator |
 
 # Contributor 🤝🏻
 <a href="https://github.com/Toshi-san001"><img src="https://github.com/Toshi-san001.png?size=100" width="100" height="100"></a> | [![ARIN/3000/>](https://github.com/Arin1601.png?size=100)](https://github.com/Arin1601) 

@@ -91,14 +91,17 @@ To keep it on forever
   </a>&nbsp;&nbsp;
 
 
-# Creator 🤝🏻
+# Contributor 🤝🏻
 <a href="https://github.com/Toshi-san001"><img src="https://github.com/Toshi-san001.png?size=100" width="100" height="100"></a> | [![ARIN/3000/>](https://github.com/Arin1601.png?size=100)](https://github.com/Arin1601) 
 ---|---
-[Toshi](https://github.com/Toshi-san001)  | [Arin/3000/>](https://github.com/Arin1601)
+[Toshi_Sama](https://github.com/Toshi-san001)  | [Arin/3000/>](https://github.com/Arin1601)
 Useless Worker | Contributor |
 <a href="https://github.com/iamherok"><img src="https://github.com/iamherok.png?size=100" width="100" height="100"></a> | [![Ray_Senpai](https://github.com/RaySenpai69.png?size=100)](https://github.com/RaySenpai69) 
 [Tomioka](https://github.com/iamherok)  | [Ray_Senpai](https://github.com/RaySenpai69)
 Contributor | Contributor |
 <a href="https://github.com/FantoX001"><img src="https://github.com/FantoX001.png?size=100" width="100" height="100"></a> | [![Well/300>](https://github.com/well300.png?size=100)](https://github.com/well300)
 [Fantox](https://github.com/FanotX001)   | [Well/300>](https://github.com/well300)
+Contributor | Contributor |
+<a href="https://github.com/Chey-san"><img src="https://github.com/Chey-san.png?size=100" width="100" height="100"></a> | [![Ali_Aryan](https://github.com/AliAryanTech.png?size=100)](https://github.com/AliAryanTech)
+[Chey_San](https://github.com/Chey-san)   | [Ali_Aryan](https://github.com/AliAryanTech)
 Contributor | Contributor |

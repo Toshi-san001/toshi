@@ -46,7 +46,9 @@
 > A simple and easy-to-use WhatsApp bot project with cool Features based on Multi-Device Baileys and written in JavaScript
 
 ## 💖 NEZUKO 💖
-> This is a open source project by the TEAM ETERNITY. After forking If you change any codes and claim your then give Credit To The original Devloper of that Bot. if you Have any Questions Then Join Our Group To Express Your problem [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LN4mY3laHz61S1ybxHBeYd)
+> This is a open source project by the TEAM ETERNITY. After forking If you change any codes and claim your then give Credit To The original Devloper of that Bot. if you Have any Questions Then Join Our Group To Express Your problem 
+
+[![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LN4mY3laHz61S1ybxHBeYd)
 
 ## Requirements
 * [Node.js](https://nodejs.org/en/)

@@ -92,7 +92,7 @@ To keep it on forever
 
 
 # Creator 🤝🏻
-<a href="https://github.com/pratyush4932"><img src="https://github.com/pratyush4932.png?size=100"
+[![Nurutomo](https://github.com/pratyush4932.png?size=100)](https://github.com/pratyush4932)
 
 ---|---
 [Pratyush](https://github.com/pratyush4932)  | [Amrit/Aizen](https://github.com/Amrit9304)

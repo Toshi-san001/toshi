@@ -92,8 +92,10 @@ To keep it on forever
 
 
 # Creator 🤝🏻
-[![Pratyush](https://github.com/pratyush4932.png?size=100)](https://github.com/pratyush4932)
- | creator of Nezuko |
+<a href="https://github.com/Toshi-san001"><img src="https://github.com/Toshi-san001.png?size=100" width="100" height="100"></a> | [![ARIN/3000/>](https://github.com/Arin1601.png?size=100)](https://github.com/Arin1601) 
+---|---
+[Toshi](https://github.com/Toshi-san001)  | [Arin/3000/>](https://github.com/Arin1601)
+Owner of Mizuhara | Contributor |
 <a href="https://github.com/iamherok"><img src="https://github.com/iamherok.png?size=100" width="100" height="100"></a> | [![Arin](https://github.com/Arin1601.png?size=100)](https://github.com/Arin1601) 
 [Tomioka](https://github.com/iamherok)  | [Arin](https://github.com/Arin1601)
 Contributor | Contributor |

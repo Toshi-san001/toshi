@@ -95,10 +95,10 @@ To keep it on forever
 <a href="https://github.com/Toshi-san001"><img src="https://github.com/Toshi-san001.png?size=100" width="100" height="100"></a> | [![ARIN/3000/>](https://github.com/Arin1601.png?size=100)](https://github.com/Arin1601) 
 ---|---
 [Toshi](https://github.com/Toshi-san001)  | [Arin/3000/>](https://github.com/Arin1601)
-Owner of Mizuhara | Contributor |
-<a href="https://github.com/iamherok"><img src="https://github.com/iamherok.png?size=100" width="100" height="100"></a> | [![Arin](https://github.com/Arin1601.png?size=100)](https://github.com/Arin1601) 
-[Tomioka](https://github.com/iamherok)  | [Arin](https://github.com/Arin1601)
+Useless Worker | Contributor |
+<a href="https://github.com/iamherok"><img src="https://github.com/iamherok.png?size=100" width="100" height="100"></a> | [![Ray_Senpai](https://github.com/RaySenpai69.png?size=100)](https://github.com/RaySenpai69) 
+[Tomioka](https://github.com/iamherok)  | [Ray_Senpai](https://github.com/RaySenpai69)
 Contributor | Contributor |
-<a href="https://github.com/Death-132"><img src="https://github.com/Death-132.png?size=100" width="100" height="100"></a> | [![Adiwajshing](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing)
-[Death](https://github.com/Death-132)   | [Adiwajshing](https://github.com/adiwajshing)
+<a href="https://github.com/FantoX001"><img src="https://github.com/FantoX001.png?size=100" width="100" height="100"></a> | [![Adiwajshing](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing)
+[Fantox](https://github.com/FanotX001)   | [Adiwajshing](https://github.com/adiwajshing)
 Useless worker | Owner Of Baileys |

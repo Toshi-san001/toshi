@@ -11,9 +11,9 @@
 </p>
 
 <div align="center">
-<a href="https://telegra.ph/file/20c40af405f264b061f75.jpg"><img src="https://telegra.ph/file/20c40af405f264b061f75.jpg" alt="mizuhara" border="0"></a>
+<a href="https://telegra.ph/file/20c40af405f264b061f75.jpg"><img src="https://telegra.ph/file/20c40af405f264b061f75.jpg" alt="Nezuko" border="0"></a>
 
-# **MIZUHARA : ANIME THEMED MULTI DEVICE WHATSAPP BOT WITH COOL FEATURES**
+# **NEZUKO : MULTI DEVICE WHATSAPP BOT WITH COOL FEATURES**
 
 </p>
 <p align="center">

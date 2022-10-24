@@ -92,11 +92,8 @@ To keep it on forever
 
 
 # Creator 🤝🏻
-[![Nurutomo](https://github.com/pratyush4932.png?size=100)](https://github.com/pratyush4932)
-
----|---
-[Pratyush](https://github.com/pratyush4932)  | [Amrit/Aizen](https://github.com/Amrit9304)
-Owner of Mizuhara | Contributor |
+[![Pratyush](https://github.com/pratyush4932.png?size=100)](https://github.com/pratyush4932)
+ | creator of Nezuko |
 <a href="https://github.com/iamherok"><img src="https://github.com/iamherok.png?size=100" width="100" height="100"></a> | [![Arin](https://github.com/Arin1601.png?size=100)](https://github.com/Arin1601) 
 [Tomioka](https://github.com/iamherok)  | [Arin](https://github.com/Arin1601)
 Contributor | Contributor |

@@ -27,19 +27,6 @@
 <a href="https://github.com/is7s7whs"><img title="" src="https://img.shields.io/badge/Maintained-YES-green.svg?style=for-the-badge"></a>
 </p>
 
-
-## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LN4mY3laHz61S1ybxHBeYd) [![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)](https://js.org/) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-> A Full Fledged MD Bot For Bot Lovers <br>
-
-<p align="center">
-  <a href="https://github.com/Arus-Bots/Mizuhara#Requirements">REQUIREMENTS</a> •
-  <a href="https://github.com/Arus-Bots/Mizuhara#Installation">HOW TO INSTALL?</a> •
-  <a href="https://chat.whatsapp.com/LN4mY3laHz61S1ybxHBeYd"> OFFICIAL WHATSAPP GROUP</a> •
-  <a href="https://github.com/Arus-Bots/Mizuhara#thanks-to">THANKS TO~</a> •
-</p>
-</div>
-
-
 ---
 
 ## 📚 Information 📚

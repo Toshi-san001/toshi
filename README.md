@@ -100,5 +100,5 @@ Useless Worker | Contributor |
 [Tomioka](https://github.com/iamherok)  | [Ray_Senpai](https://github.com/RaySenpai69)
 Contributor | Contributor |
 <a href="https://github.com/FantoX001"><img src="https://github.com/FantoX001.png?size=100" width="100" height="100"></a> | [![Well/300>](https://github.com/well300.png?size=100)](https://github.com/well300)
-[Fantox](https://github.com/FanotX001)   | [Adiwajshing](https://github.com/well300)
-Contributor | Owner Of Baileys |
+[Fantox](https://github.com/FanotX001)   | [Well/300>](https://github.com/well300)
+Contributor | Contributor |

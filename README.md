@@ -1,7 +1,4 @@
-# deepesh-web
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FEternity-Team%2FNezuko)
-# **THIS REPO IS NO LONGER MAINTAINED**
 <div align="center">
     <img
         src="https://readme-typing-svg.herokuapp.com?font=Supermercado+One&size=30&duration=4997&color=B8212C&background=FF673200&center=true&vCenter=true&lines=HI+I+AM+MIZUHARA;A+WHATSAPP+BOT+ON+BAILEYS+MULTI-DEVICE"
@@ -17,7 +14,7 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="MIZUHARA MULTI DEVICE" src="https://img.shields.io/badge/MIZUHARA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="NEZUKO MULTI DEVICE" src="https://img.shields.io/badge/MIZUHARA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/pratyush4932"><img title="Author" src="https://img.shields.io/badge/Author-Pratyush-red.svg?style=for-the-badge&logo=github"></a>

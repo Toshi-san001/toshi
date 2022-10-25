@@ -11,7 +11,7 @@
 <a href="https://ibb.co/SKXCZHR"><img src="https://i.ibb.co/JzRJS85/2258810.jpg" alt="2258810" border="0" /></a>
 
 # **NEZUKO : MULTI DEVICE WHATSAPP BOT WITH COOL FEATURES**
-
+ https://raw.githubusercontent.com/bohanjun/WindowsColor/d17e14a7ed243788b59ff78333cc4868add84f21/AGPL-3.0.svg
 </p>
 <p align="center">
 <a href="#"><img title="NEZUKO MULTI DEVICE" src="https://img.shields.io/badge/NEZUKO MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>

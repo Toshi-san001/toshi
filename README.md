@@ -91,3 +91,7 @@ Contributor | Contributor |
 <a href="https://github.com/Chey-san"><img src="https://github.com/Chey-san.png?size=100" width="100" height="100"></a> | [![SaruMan](https://github.com/SarumanSama.png?size=100)](https://github.com/SarumanSama)
 [Chey_San](https://github.com/Chey-san)   | [SaruMan](https://github.com/SarumanSama)
 Contributor | Contributor |
+
+## 🎐 License
+
+ WhatsApp-bot is free and open-source software licensed under the [GNU Affero General Public License v3.0](https://github.com/Eternity-Bots/Nezuko/blob/master/LICENSE).
